@@ -22,6 +22,7 @@ class ConcentrationViewController: UIViewController {
             flipCountLabel.text = "Flips: \(flipCount)"
         }
     }
+
     
     @IBOutlet private weak var flipCountLabel: UILabel!
     
